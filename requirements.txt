@@ -1,0 +1,23 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: osx-arm64
+python=3.11.7=hdf0ec26_0_cpython
+numpy
+matplotlib
+ipympl
+pyviz_comms
+hvplot
+jupyterlab
+jupyter-book
+jupyter_bokeh
+pint
+yaml
+pandas
+scipy
+ffmpeg
+pscript
+line_profiler
+selenium
+firefox
+geckodriver
+multiprocess

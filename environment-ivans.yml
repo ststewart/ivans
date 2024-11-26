@@ -1,0 +1,28 @@
+name: ivans
+channels:
+  - pyviz
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - ipympl
+  - pyviz_comms
+  - hvplot
+  - jupyterlab
+  - jupyter-book
+  - jupyter_bokeh
+  - pint
+  - yaml
+  - pandas
+  - scipy
+  - ffmpeg
+  - pscript
+  - line_profiler
+  - selenium
+  - firefox
+  - geckodriver
+  - multiprocess
+  - csv
+  - copy

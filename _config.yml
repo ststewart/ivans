@@ -1,0 +1,44 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: IVANS Model
+author: S. T. Stewart et al.
+logo: logo.png
+copyright                   : "2024"  # Copyright year to be placed in the footer
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: auto
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: IVANS-book.tex
+
+# Add a bibtex file so that we can create citations
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+bibtex_bibfiles:
+  - references.bib
+  
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/ststewart/ivans  # Online location of your book
+#  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: main  # Which branch of the repository should be used when creating links (optional)
+
+# Add GitHub buttons to your book
+# See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
+html:
+  favicon                   : favicon-32x32-2.png  # A path to a favicon image
+  #use_issues_button: true
+  use_repository_button: true
+  use_multitoc_numbering    : true   # Continuous numbering across parts/chapters
+  extra_navbar              : Powered by <a href="https://jupyterbook.org">Jupyter Book</a>  # Will be displayed underneath the left navbar.
+  extra_footer              : ""  # Will be displayed underneath the footer.
+  home_page_in_navbar       : true  # Whether to include your home page in the left Navigation Bar
+
+only_build_toc_files: true
+
