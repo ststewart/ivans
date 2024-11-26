@@ -8,6 +8,9 @@ submitted to <i>[The Planetary Science Journal](https://iopscience.iop.org/journ
 
 The [https://github.com/ststewart/ivans](https://github.com/ststewart/ivans) GitHub repository includes the python Jupyter notebooks and scripts that generated the figures in the manuscript. The repository also includes the simulation input files for the pyKO and CTH hydrocodes and pyKO data analysis scripts.
 
+This supplementary Jupyter book is archived at <br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14226607.svg)](https://doi.org/10.5281/zenodo.14226607)
+
 ## Table of Contents
 ```{tableofcontents}
 ```
