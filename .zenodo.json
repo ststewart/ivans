@@ -1,0 +1,41 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-9606-1593",
+            "affiliation": "Arizona State University",
+            "name": "Stewart, Sarah T."
+        },
+        {
+            "orcid": "0000-0001-5365-9616",
+            "affiliation": "University of Bristol",
+            "name": "Lock, Simon J."
+        },
+        {
+            "orcid": "0000-0001-5065-4625",
+            "affiliation": "University of Bristol",
+            "name": "Carter, Philip J."
+        },
+        {
+            "orcid": "0000-0002-2140-3605",
+            "affiliation": "California Council on Science and Technology",
+            "name": "Davies, Erik J."
+        },
+        {
+            "orcid": "0000-0003-1209-3569",
+            "affiliation": "Harvard University",
+            "name": "Petaev, Michail I."
+        },
+        {
+            "orcid": "0000-0003-2164-0720",
+	     "affiliation": "Harvard University",
+            "name": "Jacobsen, Stein B."
+        }
+    ],
+
+    "license": "GPL-3.0",
+
+    "title": "Supplementary Materials for `Planetesimal Impact Vapor Plumes and Nebular Shocks form Chondritic Mixtures`, submitted to The Planetary Science Journal",
+
+    "keywords": ["Chondrites", "Impact phenomena", "Planetesimals", "Planetary migration", "Shocks", "Chondrules"]
+
+}

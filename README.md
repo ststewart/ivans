@@ -12,19 +12,19 @@ This Jupyterbook is hosted online at https://chondrules.net/ivans.
 
 To execute the Jupyter notebooks in this GitHub repository, build the conda environment:<p>
 
-conda env create -f environment-ivans.yml<br>
-conda activate ivans<p>
+`conda env create -f environment-ivans.yml`<br>
+`conda activate ivans`<p>
 
-To rebuild the html Jupyterbook:<p>
+To rebuild the html Jupyterbook, from the directory above the `ivans` full repository, run:<p>
 
-jupyter-book build ivans<p>
+`jupyter-book build ivans`<p>
 
 The output is in:<p>
 
-ivans/_build/html<p>
+`ivans/_build/html`<p>
 
-See ivans/_toc.yml for the table of contents of the Jupyterbook.<p>
+Move the contents of the `ivans/static` subdirectory to `ivans/_build/html/_static` to complete the Jupyter book. See `ivans/_toc.yml` for the table of contents of the Jupyterbook.<p>
 
 S. T. Stewart<br>
 sstewa56@asu.edu<br>
-11/26/2024<br>
+11/28/2024<br>
