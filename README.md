@@ -3,10 +3,12 @@
 This repository presents supplemental materials and replication files for the Impact Vapor and Nebular Shocks (IVANS) model for the formation of chondrules and chondritic mixtures.<p>
 
 Reference:<br>
-S. T. Stewart, S. J. Lock, P. J. Carter, E. J. Davies, M. I. Petaev, S. B. Jacobsen, Planetesimal Impact Vapor Plumes and Nebular Shocks form Chondritic Mixtures, <i>[The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338)</i>, submitted.
+S. T. Stewart, S. J. Lock, P. J. Carter, E. J. Davies, M. I. Petaev, S. B. Jacobsen, Planetesimal Impact Vapor Plumes and Nebular Shocks form Chondritic Mixtures, <i>[The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338)</i>, revised, 2025.
 
-This supplementary Jupyter book (v1.0.1) is archived at <br>
+The submitted supplementary Jupyter book (v1.0.1) is archived at <br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247101.svg)](https://doi.org/10.5281/zenodo.14247101)
+
+The revised supplementary Jupyter book (v1.0.x) is archived at TBD.<br>
 
 This Jupyterbook is hosted online at https://chondrules.net/ivans.
 
@@ -27,4 +29,5 @@ Move the contents of the `ivans/static` subdirectory to `ivans/_build/html/_stat
 
 S. T. Stewart<br>
 sstewa56@asu.edu<br>
-11/29/2024<br>
+Submitted 11/29/2024<br>
+Revised 2/18/2025<br>

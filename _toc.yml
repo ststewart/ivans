@@ -5,11 +5,11 @@ format: jb-book
 root: intro
 chapters:
 - file: hydrocode-sims
-- file: figure1
+- file: figure1and20
 - file: figure2
-- file: figure5and20
+- file: figure5and21
 - file: figure6and7
-- file: figure8and21
+- file: figure8and22and23
 - file: figure9-11
 - file: figure12
 - file: figure13
@@ -17,6 +17,6 @@ chapters:
 - file: figure16
 - file: figure18
 - file: figure19
-- file: figure22
+- file: figure24
 - file: table2
 - file: references
