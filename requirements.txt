@@ -21,3 +21,4 @@ selenium
 firefox
 geckodriver
 multiprocess
+svglib
