@@ -4,12 +4,12 @@
 ### Planetesimal Impact Vapor Plumes and Nebular Shocks form Chondritic Mixtures
 
 by S. T. Stewart, P. J. Carter, S. J. Lock, E. J. Davies, M. I. Petaev, S. B. Jacobsen<br>
-revised for <i>[The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338)</i>, 2025.
+<i>[The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338)</i>, in press, 2025.
 
 The [https://github.com/ststewart/ivans](https://github.com/ststewart/ivans) GitHub repository includes the python Jupyter notebooks and scripts that generated the figures in the manuscript. The repository also includes the simulation input files for the pyKO and CTH hydrocodes and pyKO data analysis scripts.
 
-The submitted supplementary Jupyter book (v1.0.1) is archived at <br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14247101.svg)](https://doi.org/10.5281/zenodo.14247101)
+The supplementary Jupyter book (v1.0.2) is archived at <br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14969068.svg)](https://doi.org/10.5281/zenodo.14969068)
 
 ## Table of Contents
 ```{tableofcontents}
