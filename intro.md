@@ -8,10 +8,8 @@ by S. T. Stewart, P. J. Carter, S. J. Lock, E. J. Davies, M. I. Petaev, S. B. Ja
 
 The [https://github.com/ststewart/ivans](https://github.com/ststewart/ivans) GitHub repository includes the python Jupyter notebooks and scripts that generated the figures in the manuscript. The repository also includes the simulation input files for the pyKO and CTH hydrocodes and pyKO data analysis scripts.
 
-<!-- this is the link for the previous version
-The supplementary Jupyter book (v1.0.2) is archived at <br>
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14969068.svg)](https://doi.org/10.5281/zenodo.14969068)
--->
+The supplementary Jupyter book (v1.0.3) is archived at <br>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15178795.svg)](https://doi.org/10.5281/zenodo.15178795)
 
 ### Repository Contents
 * Jupyter notebooks (ipynb files) and python scripts (py files) to recreate Figures 1-2, 8-16, and 18-24
