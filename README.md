@@ -5,8 +5,10 @@ This repository presents supplemental materials and replication files for the Im
 Reference:<br>
 S. T. Stewart, S. J. Lock, P. J. Carter, E. J. Davies, M. I. Petaev, S. B. Jacobsen, Planetesimal Impact Vapor Plumes and Nebular Shocks form Chondritic Mixtures, <i>[The Planetary Science Journal](https://iopscience.iop.org/journal/2632-3338)</i>, doi:10.3847/PSJ/adbe71, 2025.
 
+<!-- doi for previous version
 The supplementary materials are contained in a Jupyterbook that is archived at <br>
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14969068.svg)](https://doi.org/10.5281/zenodo.14969068)
+-->
 
 This Jupyterbook is hosted online at https://chondrules.net/ivans.
 
