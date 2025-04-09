@@ -5,7 +5,7 @@ The animation QuickTime files are available in the GitHub repository in the `cth
 
 ## Figure 6: 2D Example
 
-<img src="_static/Fig6-G012-figure-DT-v2.png">
+<img src="_static/Fig6-G012-figure-DT-v3.png">
 
 <b>Figure 6: 2D vapor plume expansion and collapse.</b> Example 2D cylindrically symmetric vapor plume evolution starting with ice-silica bodies colliding at 6 km s$^{-1}$. The surrounding nebular gas is dust-free at 0.1 Pa and 200 K. A. Initially the vapor plume is denser than the surrounding shocked nebula, indicated by the shell of hot gas bounded by the exterior nebular shock and the nebula-plume interface. The water vapor plume is cool with small amounts of hot silica gas. The principal direction of the vapor plume generates a much hotter nebular shock than the opposite direction. B. As the pressure and density drops in the vapor plume, turbulent eddies form at the nebula-plume interface. C. The inward turbulent flow mixes plume and nebular materials in a warm cloud about $10^4$ times greater in size than the original planetesimals. Note the change in scale at each time step. 
 
