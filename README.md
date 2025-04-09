@@ -12,14 +12,14 @@ This Jupyterbook is hosted online at https://chondrules.net/ivans.
 
 This repository contains:<br>
 * Jupyter notebooks (ipynb files) and python scripts (py files) to recreate Figures 1-2, 8-16, and 18-24
-    - The data files are in text, CSV and python pickle formats
+    - Data files in text, CSV and python pickle formats
     - The required python environment yaml file
 * Table 3 in CSV format
 * Example text input files for the CTH code
 * Example text input files for the pyKO code
 * Equation of state files for ANEOS water and ANEOS fused silica
-    - text input, text output files, and text SESAME format data tables
-* Supplemental animations:
+    - Text input files, text output files, and text SESAME format data tables
+* Supplemental animations
     - HTML animation associated with Figure 5 pyKO code calculation
     - QuickTime movie files associated with Figures 6 and 7 CTH code calculations
 * Additional files needed to assemble the Supplemental Materials into a Jupyter book
